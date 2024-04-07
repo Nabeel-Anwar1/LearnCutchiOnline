@@ -10,6 +10,7 @@ const HomePage = () => {
         playing some games!
       </p>
       <p>Sign up now to track your progress and learn!</p>
+      <Link to="/Learn">Learn!</Link>
     </div>
   );
 };
