@@ -16,3 +16,5 @@ const HomePage = () => {
 };
 
 export default HomePage;
+
+//Home Page. Will contain navbar with different locations to link to, account symbol to go to account page/login.
